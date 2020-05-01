@@ -1,2 +1,1 @@
-# device_groups_with_events_example
-Reference architecture for grouping devices and using Particle events to trigger actions on those devices.
+This repository contains code to complement the [Messaging Architecture for Scale whitepaper](https://support.particle.io/hc/en-us/articles/360047299873) on the Particle support site.
